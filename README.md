@@ -1,4 +1,4 @@
-![b](btr.jpg)
+![b](Hirasawa_Yui.gif)
 <!--
 **Kellyfanty19/Kellyfanty19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
