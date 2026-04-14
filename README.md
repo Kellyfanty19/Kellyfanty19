@@ -2,8 +2,8 @@
 <!--
 **Kellyfanty19/Kellyfanty19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-a student
 ![b](btr.jpg)
+a student
 ## Contact:
 [![Discord](https://img.shields.io/badge/Discord-%23000000.svg?logo=discord&logoColor=FFFFFF)](https://discord.gg/elikelly) [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=FFFFFF)](https://instagram.com/kellyfanty19) 
 
