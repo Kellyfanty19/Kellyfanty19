@@ -7,8 +7,8 @@
 
 a student
 ## Contact:
-duo [![Discord](https://img.shields.io/badge/Discord-%234682B4.svg?logo=discord&logoColor=white)](https://discord.com/users/1129308703628206150/)
-and me [![Discord](https://img.shields.io/badge/Discord-%23F08080.svg?logo=discord&logoColor=white)](https://discord.com/users/1028003962353373244/)
+[![Discord](https://img.shields.io/badge/Discord-%23F08080.svg?logo=discord&logoColor=white)](https://discord.com/users/1028003962353373244/)
+me and duo [![Discord](https://img.shields.io/badge/Discord-%234682B4.svg?logo=discord&logoColor=white)](https://discord.com/users/1129308703628206150/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=FFFFFF)](https://instagram.com/kellyfanty19) 
 
