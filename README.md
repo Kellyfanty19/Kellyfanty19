@@ -7,7 +7,7 @@
 
 a student
 ## Contact:
-![Discord](https://img.shields.io/badge/-%23000000.svg?logo=discord&logoColor=white) elikelly
+[![Discord](https://img.shields.io/badge/Discord-%23000000.svg?logo=discord&logoColor=white)](https://discord.com/users/1129308703628206150/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=FFFFFF)](https://instagram.com/kellyfanty19) 
 
