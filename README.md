@@ -8,6 +8,7 @@
 a student
 ## Contact:
 [![Discord](https://img.shields.io/badge/Discord-%23000000.svg?logo=discord&logoColor=white)](https://discord.com/users/1129308703628206150/)
+[![Discord](https://img.shields.io/badge/Discord-%23000000.svg?logo=discord&logoColor=white)](https://discord.com/users/1028003962353373244/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=FFFFFF)](https://instagram.com/kellyfanty19) 
 
